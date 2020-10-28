@@ -23,7 +23,7 @@ public class Genr {
 		int numberSet[]= new int[10];
 		numberSet[i] = randomNum;		
 		
-		System.out.println("+254"+numberSet[i]);
+		System.out.print("+254"+numberSet[i]+ ",");
 	}
 	
 	
